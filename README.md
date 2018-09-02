@@ -1,9 +1,8 @@
 NETS150 PROJECT: INTERNATIONAL ROUTE FINDER
 
 Partners: Nikhil Kokra, Neel Shroff
-Project type: Implementation
 
-CATEGORIES: The category we used was graph / graph algorithms. Specifically we used a modified version of Dijkstra?s Algorithm.
+CATEGORIES: The category we used was graph / graph algorithms. Specifically we used a modified version of Dijkstra's Algorithm.
 
 HOW TO RUN IT
 
